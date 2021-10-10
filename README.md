@@ -1,3 +1,8 @@
+# todo-list-client
+
+# 项目说明
+todoList项目的react客户端，服务端请看https://github.com/Jayce-solo/todo-list-server_node
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
